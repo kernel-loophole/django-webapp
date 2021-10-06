@@ -1,5 +1,5 @@
 # django-webapp
-![Optional Text](index.png)
+  ![Optional Text](index.jpg)
 
 
 
