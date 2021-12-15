@@ -1,7 +1,6 @@
-# django-webapp
-# Make way Simple  
+  
 # Database
-```
+```python
 from django.db import models
 from django.core.files import storage
 from django.db import models
